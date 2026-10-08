@@ -23,6 +23,7 @@ Five end-to-end builds on synthetic data: SQL model in DuckDB, automated checks,
 |---|---|---|
 | [protec](https://github.com/damanjz/protec) | Local password manager: Rust core, Tauri and Svelte app, browser extension | 16 hardening fixes from a six-area audit |
 | [ai-calendar](https://github.com/damanjz/ai-calendar) | Calendar with a REST API that AI assistants book into, behind one conflict check | 177 tests, ~91% coverage |
+| [obsidian-vault-mcp](https://github.com/damanjz/obsidian-vault-mcp) | Read-only MCP server that lets AI assistants search an Obsidian vault | 49 tests; 215 notes indexed in 87 ms |
 | [flux-player](https://github.com/damanjz/flux-player) | Native Windows video player in Python and PySide6 | No web view |
 | [volt-techwear-store](https://github.com/damanjz/volt-techwear-store) | Next.js 15 storefront with accounts, Prisma, Postgres and server-side checkout | [Live store](https://volt-techwear-store.vercel.app) |
 | [n8n-ai-triage](https://github.com/damanjz/n8n-ai-triage) | Email triage on local Ollama, drafts held for human approval | 88% routing vs 70% rules baseline |
