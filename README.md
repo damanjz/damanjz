@@ -7,7 +7,7 @@ MA Animation (Merit), University of Salford.
 
 ### Data and BI
 
-Five end-to-end builds on synthetic data: SQL model in DuckDB, automated checks, reports generated from code.
+Six end-to-end builds, five on synthetic data and one on real government monitoring data: SQL model in DuckDB, automated checks, reports generated from code.
 
 | Case study | Headline | Links |
 |---|---|---|
@@ -16,6 +16,7 @@ Five end-to-end builds on synthetic data: SQL model in DuckDB, automated checks,
 | Hospital operations | 30-day readmission AUC 0.786 vs LACE 0.749 | [repo](https://github.com/damanjz/hospital-operations-bi) |
 | Supply chain | 14-day stockout AUC 0.840 vs reorder-point rule 0.699 | [repo](https://github.com/damanjz/supply-chain-bi) · [live](https://public.tableau.com/app/profile/daman.reddy/viz/SupplyChainNetwork_17913286536000/Network) |
 | SaaS revenue leaks | 5 of 5 planted leaks found blind; dbt star schema | [repo](https://github.com/damanjz/saas-revenue-leak-bi) |
+| India air quality (real data) | 36M valid readings from 107 stations; 423 of 423 report numbers match SQL | [repo](https://github.com/damanjz/india-air-quality-bi) |
 
 ### Systems
 
